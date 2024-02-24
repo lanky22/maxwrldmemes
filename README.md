@@ -23,12 +23,12 @@ Linking/Pairing:
 </a>
 </h2>
 
-Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusmokaya/DREADED-PAIRING)
+Alternatively, pair locally using the repo [Here](https://github.com/fortunemokaya/DREADED-PAIRING)
 
     
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/fork)
+- Fork this repo by tapping  [here](https://github.com/maxwrldmemes/maxwrldmemes/fork)
 
 
 - Upload the creds.json that you received to the dreaded1 folder.
