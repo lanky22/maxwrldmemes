@@ -73,7 +73,7 @@ Thanks to...
   
 | [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
 |----|
-* [`MaXwrld memes`](https://github.com/maxwrldmemes) ***Author, Owner***
+* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
 
 * [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
 * [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
@@ -83,7 +83,7 @@ Thanks to...
 
 ---
 
-Incase of any issues, contact me  [here](https://wa.me/+254742516017) via WhatsApp or [here](maxwrld254@gmail.com) via Email.
+Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp or [here](mokayafortunatus@gmail.com) via Email.
 
 Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
 
@@ -92,4 +92,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
 
-Copyright (c) 2024 MaXwrld md
+Copyright (c) 2023 Dreaded-GPT-AI
+
